@@ -1,8 +1,0 @@
-game human human
-setup
-- e2
-+ q f4
-+ R a3
-done
-move h2 h3
-move f4 e4
