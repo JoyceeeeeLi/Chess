@@ -30,7 +30,7 @@ Fully implemented chess game algorithm that supports:
     for computer player.
     
     
-## Demo Video
+## Demo Videos
 Note: On the chess board, pieces of `[player1]` and `[player2]` are distinguished by lower/upper case letters.
 ### Human vs Computer1
 * Level 1: The computer player will make a valid move when `move` command is executed.
