@@ -16,7 +16,7 @@ Fully implemented chess game algorithm that supports:
 ### How to play
 1. Start a game
     ```sh
-    game [player1] [player2]
+    game [white-player] [black-player]
     ```
     `player` could be either `human` or `computer[1-3]` (`[1-3]` refers to the difficulty level).
 2. Make a move
@@ -31,7 +31,9 @@ Fully implemented chess game algorithm that supports:
     
     
 ## Demo Videos
-Note: On the chess board, pieces of `[player1]` and `[player2]` are distinguished by lower/upper case letters.
+Note: On the chess board, pieces of `[white-player]` and `[black-player]` are distinguished by lower/upper case letters: <br />
+         `[white-player]` - Lower case <br />
+         `[black-player]` - Upper case <br />
 ### Human vs Computer1
 * Level 1: The computer player will make a valid move when `move` command is executed.
 
