@@ -13,6 +13,22 @@ Fully implemented chess game algorithm that supports:
 * Linux
 * [XQuartz](https://www.xquartz.org)
 
+### Installation
+1. Clone the repo
+   ```sh
+    git clone https://github.com/JoyceeeeeLi/Chess.git
+    ```
+
+2. Make
+   ```sh
+   make
+   ```
+
+3. Run
+   ```sh
+   ./chess
+   ```
+   
 ### How to play
 1. Start a game
     ```sh
